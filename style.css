@@ -88,13 +88,13 @@ div.beloved:before {
 div.beloved:after {
   width: 100vmin;
   height: 100vmin;
-  top: 30vmin;
+  top: 19vmin;
   left: 28vmin;
   z-index: 50;
   display: flex;
   position: absolute;
   white-space: pre;
-  content: "Thank you \a Love";
+  content: "Thank you \a Huda \a my love";
 
   text-align: center;
   line-height: 1.1;
